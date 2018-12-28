@@ -1,3 +1,3 @@
 # Laravue
 
-Proyecto de prueba
+Proyecto de prueba. Prueba de cache
